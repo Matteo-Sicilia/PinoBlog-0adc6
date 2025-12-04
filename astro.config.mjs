@@ -3,7 +3,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://pinoblog.netlify.app/",
+	site: "https://pinocembro.it/",
 	base: "/",
 	integrations: [sitemap()],
 	markdown: {
